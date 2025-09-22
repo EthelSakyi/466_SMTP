@@ -1,0 +1,7 @@
+220 list.winthrop.edu (IMail 12.6.1.4 1009-1) NT-ESMTP Server X1
+250 hello list.winthrop.edu
+250 ok
+250 ok its for <atiasea2@winthrop.edu>
+354 ok, send it; end with <CRLF>.<CRLF>
+250 Message queued
+221 bye
